@@ -21,14 +21,14 @@ Before using the tool, install the required libraries:
 
 #### For Kali Linux:
 `bash
-sudo apt update
-sudo apt install jq traceroute
++ sudo apt update
++ sudo apt install jq traceroute
 
 For Termux:
 
-pkg update
-pkg install jq
-pkg install traceroute
++ pkg update
++ pkg install jq
++ pkg install traceroute
 
 2. Clone the Repository
 
