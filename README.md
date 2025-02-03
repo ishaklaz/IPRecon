@@ -24,7 +24,7 @@ Before using the tool, install the required libraries:
 + sudo apt update
 + sudo apt install jq traceroute
 
-For Termux:
+##### For Termux:
 
 + pkg update
 + pkg install jq
@@ -32,16 +32,16 @@ For Termux:
 
 2. Clone the Repository
 
-git clone https://github.com/ishaklaz/IPRecon.git
-cd IPRecon
++ git clone https://github.com/ishaklaz/IPRecon.git
++ cd IPRecon
 
 3. Give Execute Permission
 
-chmod +x IPRecon.sh
++ chmod +x IPRecon.sh
 
 4. Run the Tool
 
-./IPRecon.sh
++ ./IPRecon.sh
 
 
 ---
