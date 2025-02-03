@@ -32,7 +32,7 @@ pkg install traceroute
 
 2. Clone the Repository
 
-git clone https://github.com/your-username/IPRecon.git
+git clone https://github.com/ishaklaz/IPRecon.git
 cd IPRecon
 
 3. Give Execute Permission
